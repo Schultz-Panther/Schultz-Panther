@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Schultz-Panther
+- 👋 Hi, I’m @SamuraiSchultz
 - 👀 I’m interested in ... game development, Blender 3D modeling and animation, Unreal Engine Blueprints and C++, and music.
 - 🌱 I’m currently learning ... differential calculus.
 - 💞️ I’m looking to collaborate on ... a video game with my sister using Unity.
